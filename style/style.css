@@ -1,12 +1,7 @@
 @font-face {
     font-family: 'libre_baskervillebold';
-<<<<<<< HEAD
-    src: url(https://sixela413.github.io/SEG3125-Lab3/assets/librebaskerville-bold-webfont.woff2) format('woff2'),
-         url(https://sixela413.github.io/SEG3125-Lab3/assets/librebaskerville-bold-webfont.woff) format('woff');
-=======
-    src: url(./assets/librebaskerville-bold-webfont.woff2) format('woff2'),
-         url(./assets/librebaskerville-bold-webfont.woff) format('woff');
->>>>>>> aeffaf024bd6f978e2b23f0994345251bec358ef
+    src: url(https://sixela413.github.io/SEG3125-Lab-3/assets/librebaskerville-bold-webfont.woff2) format('woff2'),
+         url(https://sixela413.github.io/SEG3125-Lab-3/assets/librebaskerville-bold-webfont.woff) format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -14,13 +9,8 @@
 
 @font-face {
     font-family: 'libre_baskervilleregular';
-<<<<<<< HEAD
-    src: url(https://sixela413.github.io/SEG3125-Lab3/assets/librebaskerville-regular-webfont.woff2) format('woff2'),
-         url(https://sixela413.github.io/SEG3125-Lab3/assets/librebaskerville-regular-webfont.woff) format('woff');
-=======
-    src: url(./assets/librebaskerville-regular-webfont.woff2) format('woff2'),
-         url(./assets/librebaskerville-regular-webfont.woff) format('woff');
->>>>>>> aeffaf024bd6f978e2b23f0994345251bec358ef
+    src: url(https://sixela413.github.io/SEG3125-Lab-3/assets/librebaskerville-regular-webfont.woff2) format('woff2'),
+         url(https://sixela413.github.io/SEG3125-Lab-3/assets/librebaskerville-regular-webfont.woff) format('woff');
     font-weight: normal;
     font-style: normal;
 
